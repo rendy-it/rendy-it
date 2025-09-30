@@ -11,6 +11,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/rendy-it/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/rendy-it/ticket-lifecycle)
 
+- <b>Active Directory</b>
+  - [Configuring On-Premises Active Deployed in Azure Cloud VMs](https://github.com/rendy-it/configure-ad)
+
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
