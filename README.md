@@ -13,6 +13,7 @@
 
 - <b>Active Directory</b>
   - [Configuring On-Premises Active Deployed in Azure Cloud VMs](https://github.com/rendy-it/configure-ad)
+  - [Configuring Account Policies for Active Directory](https://github.com/rendy-it/configure-ad-ap)
 
 
 <h2>🤳Connect with me:</h2>
